@@ -1,0 +1,15 @@
+name: Deathrunplus
+description: Only works with Obsidian_Seal's deathrun.
+version: '${project.version}'
+main: page.pinniped.deathrunplus.Main
+api-version: 1.18
+author: Obsidian_Seal
+website: pinniped.page
+
+commands:
+  Traps:
+    description: Teleport to traps. (Death only.)
+  Lobby:
+    description: Teleport to the lobby.
+  L:
+    description: Teleport to the lobby.
